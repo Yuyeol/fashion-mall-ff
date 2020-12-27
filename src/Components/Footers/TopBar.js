@@ -67,29 +67,29 @@ export default () => (
   <Header>
     <List>
       <Item>
-        <SLink to="/">회사소개</SLink>
+        <SLink to="/fashion-mall-ff">회사소개</SLink>
       </Item>
       <Item>
-        <SLink to="/">이용약관</SLink>
+        <SLink to="/fashion-mall-ff">이용약관</SLink>
       </Item>
       <Item>
-        <SLink to="/">개인정보취급방침</SLink>
+        <SLink to="/fashion-mall-ff">개인정보취급방침</SLink>
       </Item>
       <Item>
-        <SLink to="/">
+        <SLink to="/fashion-mall-ff">
           <AiOutlineMail />
           제휴문의
         </SLink>
       </Item>
     </List>
     <IconBlock>
-      <Icon to="/">
+      <Icon to="/fashion-mall-ff">
         <FaFacebookF />
       </Icon>
-      <Icon to="/">
+      <Icon to="/fashion-mall-ff">
         <FaInstagram />
       </Icon>
-      <Icon to="/">
+      <Icon to="/fashion-mall-ff">
         <BIcon>B</BIcon>
       </Icon>
     </IconBlock>

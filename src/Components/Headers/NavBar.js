@@ -32,28 +32,28 @@ export default ({ fixNav }) => {
     <NavBar active={fixNav === true}>
       <List>
         <Item>
-          <SLink to="/about">ABOUT US</SLink>
+          <SLink to="/fashion-mall-ff/about">ABOUT US</SLink>
         </Item>
         <Item>
-          <SLink to="/lookbook">LOOK BOOK</SLink>
+          <SLink to="/fashion-mall-ff/lookbook">LOOK BOOK</SLink>
         </Item>
         <Item>
-          <SLink to="/outer">OUTER</SLink>
+          <SLink to="/fashion-mall-ff/outer">OUTER</SLink>
         </Item>
         <Item>
-          <SLink to="/coat">COAT</SLink>
+          <SLink to="/fashion-mall-ff/coat">COAT</SLink>
         </Item>
         <Item>
-          <SLink to="/shirts">SHIRTS</SLink>
+          <SLink to="/fashion-mall-ff/shirts">SHIRTS</SLink>
         </Item>
         <Item>
-          <SLink to="/top">TOP</SLink>
+          <SLink to="/fashion-mall-ff/top">TOP</SLink>
         </Item>
         <Item>
-          <SLink to="/bottom">BOTTOM</SLink>
+          <SLink to="/fashion-mall-ff/bottom">BOTTOM</SLink>
         </Item>
         <Item>
-          <SLink to="/etc">ETC</SLink>
+          <SLink to="/fashion-mall-ff/etc">ETC</SLink>
         </Item>
       </List>
     </NavBar>

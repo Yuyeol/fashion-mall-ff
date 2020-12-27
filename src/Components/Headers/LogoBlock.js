@@ -15,7 +15,7 @@ const Image = styled.img``;
 const LogoBlock = () => (
   <Logo>
     <ImageBox>
-      <SLink to="/">
+      <SLink to="/fashion-mall-ff">
         <Image src="http://app-storage-edge-004.cafe24.com/bannermanage2/firstfloor/2020/08/03/58ad38fdba5fb688217bb1b36c6cefa5.png" />
       </SLink>
     </ImageBox>

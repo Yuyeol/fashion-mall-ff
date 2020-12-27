@@ -101,37 +101,37 @@ const Icon = styled(Link)`
 export default ({ fixNav }) => (
   <Header>
     <ListBox>
-      <Home to="/" active={fixNav === true}>
+      <Home to="/fashion-mall-ff" active={fixNav === true}>
         <FaHome />
       </Home>
       <List>
         <Item>
-          <SLink to="/">마이페이지</SLink>
+          <SLink to="/fashion-mall-ff">마이페이지</SLink>
         </Item>
         <Item>
-          <SLink to="/">
+          <SLink to="/fashion-mall-ff">
             장바구니<Badge>0</Badge>
           </SLink>
         </Item>
         <Item>
-          <SLink to="/">커뮤니티</SLink>
+          <SLink to="/fashion-mall-ff">커뮤니티</SLink>
         </Item>
         <Item>
-          <SLink to="/">Q & A</SLink>
+          <SLink to="/fashion-mall-ff">Q & A</SLink>
         </Item>
       </List>
     </ListBox>
     <SearchBox>
       <Form>
         <Input />
-        <IconSearch to="/">
+        <IconSearch to="/fashion-mall-ff">
           <FaSearch />
         </IconSearch>
       </Form>
-      <Icon to="/">
+      <Icon to="/fashion-mall-ff">
         <FaRegEye />
       </Icon>
-      <Icon to="/">
+      <Icon to="/fashion-mall-ff">
         <FaRegStar />
       </Icon>
     </SearchBox>

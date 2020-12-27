@@ -98,7 +98,8 @@ export default () => (
     <Box>
       <Title>FAVORITE MENU</Title>
       <SmallText>
-        <SLink to="/">로그인</SLink>/<SLink to="/">회원가입</SLink>
+        <SLink to="/fashion-mall-ff">로그인</SLink>/
+        <SLink to="/fashion-mall-ff">회원가입</SLink>
       </SmallText>
       <SmallText>관련상품</SmallText>
       <SmallText>장바구니</SmallText>
@@ -113,19 +114,19 @@ export default () => (
         자세한 교환·반품절차 안내는 문의란 및 공지사항을 참고해주세요
       </SmallText>
       <IconBox>
-        <IconLink to="/">
+        <IconLink to="/fashion-mall-ff">
           <BsFillMicFill />
         </IconLink>
-        <IconLink to="/">
+        <IconLink to="/fashion-mall-ff">
           <RiMessage3Fill />
         </IconLink>
-        <IconLink to="/">
+        <IconLink to="/fashion-mall-ff">
           <AiFillCamera />
         </IconLink>
-        <IconLink to="/">
+        <IconLink to="/fashion-mall-ff">
           <AiFillCreditCard />
         </IconLink>
-        <IconLink to="/">
+        <IconLink to="/fashion-mall-ff">
           <BsFillBookmarkFill />
         </IconLink>
       </IconBox>
