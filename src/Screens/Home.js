@@ -80,7 +80,7 @@ const Home = () => {
   ]);
 
   useEffect(() => {
-    window.scrollTo(0, 0);
+    // window.scrollTo(0, 0);
 
     const bannerImg = [
       "http://app-storage-edge-004.cafe24.com/bannermanage2/firstfloor/2020/11/04/4fd73533946d8f2370fec67546c1bb25.jpg",
