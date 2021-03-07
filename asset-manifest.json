@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/fashion-mall-ff/static/js/main.4a8a6031.chunk.js",
-    "main.js.map": "/fashion-mall-ff/static/js/main.4a8a6031.chunk.js.map",
+    "main.js": "/fashion-mall-ff/static/js/main.1afdacae.chunk.js",
+    "main.js.map": "/fashion-mall-ff/static/js/main.1afdacae.chunk.js.map",
     "runtime-main.js": "/fashion-mall-ff/static/js/runtime-main.cb0c5c22.js",
     "runtime-main.js.map": "/fashion-mall-ff/static/js/runtime-main.cb0c5c22.js.map",
     "static/js/2.e46de400.chunk.js": "/fashion-mall-ff/static/js/2.e46de400.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.cb0c5c22.js",
     "static/js/2.e46de400.chunk.js",
-    "static/js/main.4a8a6031.chunk.js"
+    "static/js/main.1afdacae.chunk.js"
   ]
 }
